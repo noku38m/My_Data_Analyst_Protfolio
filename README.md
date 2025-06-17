@@ -11,20 +11,21 @@ This GitHub repository showcases some of my personal projects and mock datasets,
 
 ## Projects
 
-### 1. Customer Data Entry & Cleaning
+### 1. Healthcare Data Analysis
 **Tools**: SQL  
 **Skills**: INSERT, UPDATE, DELETE, constraints, data validation  
-[View Project](./01-data-entry-cleaning/README.md)
+[View Project]
 
-### 2. Sales Reporting Queries
+### 2. Sales Data Analysis
 **Tools**: SQL  
 **Skills**: Aggregations, GROUP BY, JOINs, date functions  
-[View Project](./02-sales-reporting/README.md)
+[View Project]
 
-### 3. Healthcare Patient Record Analysis
+### 3. Supply Chain Data Analysis
 **Tools**: SQL  
 **Skills**: CASE statements, subqueries, window functions  
-[View Project](./03-healthcare-data/README.md)
+[View Project]
+
 
 ---
 
